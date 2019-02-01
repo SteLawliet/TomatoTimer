@@ -4,10 +4,11 @@
 
 <script>
   import HelloWorld from '../components/HelloWorld'
+  import List from '../components/List'
 
   export default {
     components: {
-      HelloWorld
+        HelloWorld, List
     }
   }
 </script>
